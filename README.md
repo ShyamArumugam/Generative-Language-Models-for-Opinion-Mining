@@ -1,4 +1,4 @@
-# Project-Shyam
+# NLP Application Report
 
 Generative Language Models for Opinion Mining
 
